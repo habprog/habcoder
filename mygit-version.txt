@@ -2,7 +2,8 @@ i found myself using git.
 
 i love using git.
 
-my project is safe with git
+my project is safe with git.
 
+i can keep track of my projects with git
 
 
